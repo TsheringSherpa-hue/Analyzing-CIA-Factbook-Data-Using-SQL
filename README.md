@@ -1,1 +1,1 @@
-# Basic-SQL-operations
+# Analyzing CIA Factbook data using-SQL
